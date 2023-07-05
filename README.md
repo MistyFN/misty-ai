@@ -1,5 +1,5 @@
 # misty-ai
-neural-network (AI) aimbot
+fortnite neural-network (AI) aimbot
 https://discord.gg/UcgPmX7xGf
 https://discord.gg/UcgPmX7xGf
 
